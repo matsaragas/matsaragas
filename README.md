@@ -1,7 +1,11 @@
 
 # 👋 Hi, I'm Petros — Building Agentic AI Systems for Reasoning & Research
 
-I have extensive experience across business and research, with a specialization in developing statistical, machine learning, deep learning, LLM, and generative AI models. My work focuses on processing and analyzing large-scale, real-world multimodal datasets to support data-driven decision-making. This GitHub account is primarily used to experiment with the latest developments in AI, including emerging frameworks, agentic architectures, and tooling for building intelligent systems.
+I have extensive experience across business and research, with a specialization in developing statistical, 
+machine learning, deep learning, LLM, and generative AI models. My work focuses on processing and analyzing large-scale, 
+real-world multimodal datasets to support data-driven decision-making. This GitHub account is primarily used to stay up to 
+date and experiment with the latest developments in AI, including emerging frameworks, agentic architectures, 
+and tooling for building intelligent systems.
 ## 🧠 Technical Focus
 
 **Agentic AI Systems · Multi-Agent Collaboration · Retrieval & RAG · Research Agents · Document Intelligence · Financial AI · Semantic Search · Data Pipelines**
