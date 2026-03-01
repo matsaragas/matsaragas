@@ -16,28 +16,31 @@ and tooling for building intelligent systems.
 
 Here are some recent projects exploring agentic architectures, retrieval pipelines, and LLM-enabled research workflows:
 
-### **1. AgenticAI-A2A for Trip Planning**
+### **1. AgenticAI-A2A for Stock Analysis**
+Multi-agent stock analysis using ADK-A2A + MCP designed to perform comprehensive financial analysis by coordinating multiple specialized agents.
+
+### **2. AgenticAI-A2A for Trip Planning**
 Multi-agent travel planning using ADK-A2A + MCP. System queries weather, accommodation, and performs Google research to suggest venues and activities. Designed for multi-turn user queries and multi-tool execution paths.
 
-### **2. A2A Multi-Agent Collaboration**
+### **3. A2A Multi-Agent Collaboration**
 Explores the agent2Agent (A2A) protocol for structured collaboration. A Host Agent orchestrates Product, Inventory, and Shipping Information Agents to support customer-style queries.
 
-### **3. LangGraph Research Agents**
+### **4. LangGraph Research Agents**
 Graph-based agents using LangGraph with fine-grained state and intermediate step tracing. Models multi-step research workflows with memory and reflection.
 
-### **4. Document Ingestion & Indexing Pipeline**
+### **5. Document Ingestion & Indexing Pipeline**
 End-to-end ingestion pipeline using LlamaIndex and OpenAI APIs for indexing, chunking, embedding, and storing documents into OpenSearch + Postgres. Enables scalable semantic search.
 
-### **5. Web Research Agent (Gemini-Inspired)**
+### **6. Web Research Agent (Gemini-Inspired)**
 Research agent designed for iterative online search. Dynamically generates search terms, evaluates retrieved signals, identifies knowledge gaps, and produces cited answers.
 
-### **6. Deep Financial Research Pipeline**
+### **7. Deep Financial Research Pipeline**
 Domain-specific agent for financial analysis. Includes multimodal loaders (PDF, JSON, txt), embedding models, and time-series data processing for domain research tasks.
 
-### **7. Financial Earnings Q&A**
+### **8. Financial Earnings Q&A**
 Plan-and-execute LLM agent that analyzes earnings call transcripts + financial fundamentals to answer complex market questions.
 
-### **8. News Search & Novelty Engine**
+### **9. News Search & Novelty Engine**
 Hybrid search engine combining ElasticSearch (sparse) + sentence transformer embeddings (dense) to enable relevance, similarity, and novelty detection across news corpora.
 
 ---
